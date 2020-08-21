@@ -4,3 +4,12 @@ Elephant
 Giraffe
 Racoon
 Whale
+
+
+Adding more animals
+
+Cat
+Dog,
+Pig
+Rat
+Grasscutter
