@@ -8,3 +8,6 @@ Frog            3       Land and water
 Octopus         30      Sea
 Tilapia         10      Fresh water
 Cat             20      Land
+Dog 
+Tiger
+Ant
