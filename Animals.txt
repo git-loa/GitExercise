@@ -1,6 +1,6 @@
-Lion            360
-Fox             40
-Elephant        900
-Giraffe         700
-Racoon          30
-Whale           1000
+Lion            360     Land
+Fox             40      Land
+Elephant        900     Land
+Giraffe         700     Land
+Racoon          30      Land
+Whale           1000    Sea
