@@ -1,6 +1,6 @@
-Lion
-Fox
-Elephant
-Giraffe
-Racoon
-Whale
+Lion            360
+Fox             40
+Elephant        900
+Giraffe         700
+Racoon          30
+Whale           1000
