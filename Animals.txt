@@ -4,3 +4,5 @@ Elephant        900     Land
 Giraffe         700     Land
 Racoon          30      Land
 Whale           1000    Sea
+Frog            3       Land and water
+Octopus         30      Sea
