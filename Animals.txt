@@ -1,13 +1,13 @@
-Lion            360     Land            lung             wild
-Fox             40      Land            lung             wild
-Elephant        900     Land            lung             wild
-Giraffe         700     Land            lung             wild
-Racoon          30      Land            lung             wild
-Whale           1000    Sea             gill             wild
-Frog            3       Land and water  lung and gill    wild
-Octopus         30      Sea             gill             wild
-Tilapia         10      Fresh water     gill             wild
-Cat             20      Land            lung             domestic
-Dog                                     lung             domestic
-Tiger                                   lung             wild
-Ant                                     lung             wild
+Lion            360     Land            lung
+Fox             40      Land            lung
+Elephant        900     Land            lung
+Giraffe         700     Land            lung
+Racoon          30      Land            lung
+Whale           1000    Sea             gill
+Frog            3       Land and water  lung and gill
+Octopus         30      Sea             gill
+Tilapia         10      Fresh water     gill
+Cat             20      Land            lung
+Dog                                     lung
+Tiger                                   lung
+Ant                                     lung
