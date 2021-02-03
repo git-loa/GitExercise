@@ -1,3 +1,4 @@
+
 Lion            360     Land
 Fox             40      Land
 Elephant        900     Land
@@ -11,3 +12,4 @@ Cat             20      Land
 Dog             40      Land
 Tiger           500     Land
 Ant             0.01    Land
+
