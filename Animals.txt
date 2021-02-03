@@ -1,13 +1,13 @@
-Lion            360     Land
-Fox             40      Land
-Elephant        900     Land
-Giraffe         700     Land
-Racoon          30      Land
-Whale           1000    Sea
-Frog            3       Land and water
-Octopus         30      Sea
-Tilapia         10      Fresh water
-Cat             20      Land
-Dog             40      Land
-Tiger           500     Land
-Ant             0.01    Land                            
+Lion            360     Land              wild
+Fox             40      Land              wild
+Elephant        900     Land              wild
+Giraffe         700     Land              wild
+Racoon          30      Land              wild
+Whale           1000    Sea               wild
+Frog            3       Land and water    wild
+Octopus         30      Sea               wild
+Tilapia         10      Fresh water       wild
+Cat             20      Land              domestic
+Dog             40      Land              domestic
+Tiger           500     Land              wild
+Ant             0.01    Land              wild               
